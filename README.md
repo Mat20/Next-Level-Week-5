@@ -14,9 +14,9 @@
 
 <img src="https://github.com/Mat20/Next-Level-Week-5/blob/main/src/assets/tile6.png" alt="Sexta Tela" width="180px"/>
 
-<img src="https://github.com/Mat20/Next-Level-Week-5/blob/main/src/assets/tile7.png" alt="Setima Tela" width="90px"/>
+<img src="https://github.com/Mat20/Next-Level-Week-5/blob/main/src/assets/tile7.png" alt="Setima Tela" width="180px"/>
 
-<img src="https://github.com/Mat20/Next-Level-Week-5/blob/main/src/assets/tile8.png" alt="Oitava Tela" width="90px"/>
+<img src="https://github.com/Mat20/Next-Level-Week-5/blob/main/src/assets/tile8.png" alt="Oitava Tela" width="180px"/>
   
 </div>
 
